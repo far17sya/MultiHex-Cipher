@@ -1,7 +1,7 @@
 # MultiHex-Cipher
 A unique cipher that combines letter shifting and hexadecimal encoding
 
-Step-by-step approach of the MultiHex cipher.
+**Step-by-step approach of the MultiHex cipher: **
 Each letter in the plaintext and key is encoded to its numerical value.
 The numerical value of the ith plaintext is then multiplied by the numerical value of the ith key.
 Perform the modulo operation on the result of the multiplication.
