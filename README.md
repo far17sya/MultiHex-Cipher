@@ -1,5 +1,5 @@
 # MultiHex-Cipher
-Create a unique cipher that combines letter shifting and hexadecimal encoding
+A unique cipher that combines letter shifting and hexadecimal encoding
 
 Step-by-step approach of the MultiHex cipher.
 Each letter in the plaintext and key is encoded to its numerical value.
